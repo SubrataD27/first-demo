@@ -1,3 +1,3 @@
 # first-demo
 This is my first git repository
-author-Subrata Dhibar
+Author-Subrata Dhibar
